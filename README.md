@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript developer
 --------------------
 
-As a Full-stack student, I gained a comprehensive understanding of web development from both front-end and back-end perspectives. Through hands-on projects and hands-on assignments, I learned to create responsive and dynamic web applications using HTML, CSS, JavaScript, vue.js, Laravel and databases such as SQL, And there is more coming
+As a Full Stack student, I gain a comprehensive understanding of web development from both front-end and back-end perspectives. Through hands-on projects and hands-on assignments, I learn to create responsive and dynamic web applications using HTML, CSS, JavaScript, vue.js, Laravel and databases such as SQL, And there is more coming
 
-* 🌍  I'm based in Morocco
+* 🌍  I'm based in morocco
 * ✉️  You can contact me at [faissalaoukacha@gmail.com](mailto:faissalaoukacha@gmail.com)
 * 🚀  I'm currently working on [My carrer](http://github.com/faissal17)
-* 🧠  I'm learning JavaScript in General
+* 🧠  I'm learning JavaScript in Generale
 
 ### Skills
 
