@@ -59,7 +59,7 @@ As a Full-stack student, I gained a comprehensive understanding of web developme
 
 </td></tr></table>  
 
-<br/>  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=faissal17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faissal17&theme=dark&hide_border=false)<br/>
